@@ -59,7 +59,7 @@ python playGame.py
 ## Project Structure
 
 ```
-hangman/
+Hangman-Game/
 │
 ├── data/
 │   ├── words3.txt
