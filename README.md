@@ -2,6 +2,8 @@
 
 A classic Hangman word-guessing game built with Python and Tkinter. Players choose a word length, then guess letters one by one before the hangman is fully drawn. The game supports Spanish word lists out of the box, but works with any language as long as you add words to the data files.
 
+> Developed as a final project for the Object-Oriented Programming course at Universidad de Guadalajara — CUCEA.
+
 ---
 
 ## Technologies
